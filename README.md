@@ -12,14 +12,6 @@
 
 <h3> 🛠  Tech Stack</h3>
 
-Cloud Platforms: AWS, Azure <br>
-IdP Architecture: OKTA, Azure
-Virtualiztion: AWS, Citrix
-Collaboration Tools: MS Entra ID, Zoom, Slack, Teams, 
-Ticketing Systems: ServiceNow, Atlassian
-Security: Endpoint Protection Solutions
-Networking: VPN, TCP/IP
-Operating Systems: Windows, OSX, Linux
 
 <br/>
 
