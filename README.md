@@ -12,7 +12,7 @@
 
 <h3> 🛠  Tech Stack</h3>
 
-Cloud Platforms: AWS, Azure
+Cloud Platforms: AWS, Azure <br>
 IdP Architecture: OKTA, Azure
 Virtualiztion: AWS, Citrix
 Collaboration Tools: MS Entra ID, Zoom, Slack, Teams, 
