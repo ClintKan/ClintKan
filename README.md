@@ -18,7 +18,7 @@
 <h3> 🤝🏻  Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.kuralabs.org/"><img alt="Website" src="https://img.shields.io/badge/Website-www.kuralabs.org-orange?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/clintonkanyali/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ClintKan-blue?style=flat-square&logo=LinkedIn&style=social"></a>
-<a href="clintkanyali@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-clintkanyali@gmail.com-red?style=flat-square&logo=gmail"></a>
+<a href="https://www.kuralabs.org/"><img alt="Website" src="https://img.shields.io/badge/Website-www.kuralabs.org-orange?style=flat-square&logo=google-chrome"/a>
+<a href="https://www.linkedin.com/in/clintonkanyali/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ClintKan-blue?style=flat-square&logo=LinkedIn&style=social"/a>
+<a href="clintkanyali@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-clintkanyali@gmail.com-red?style=flat-square&logo=gmail"/a>
 </p>
